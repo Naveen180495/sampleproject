@@ -1,1 +1,1 @@
-This is the sample java project
+This is the sample README file
